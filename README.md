@@ -46,7 +46,7 @@ I'm a self-motivated tech enthusiast from Nepal 🇳🇵 with a strong foundatio
 ## 📫 Connect with Me
 
 * 📧 Email: deepikabhandari294@gmail.com
-* 🔗 LinkedIn:Deepika Bhandari
+* 🔗 LinkedIn:[Deepika Bhandari](https://www.linkedin.com/in/deepika-bhandari-b0687321a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * 🌐 Portfolio: Coming soon…
 
 ---
