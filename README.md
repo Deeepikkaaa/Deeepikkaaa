@@ -33,7 +33,6 @@ I'm a self-motivated tech enthusiast from Nepal 🇳🇵 with a strong foundatio
 
 ## 🌱 What I’m Currently Exploring
 
-* 🤖 Learning the basics of **AI & Machine Learning**
 * ⚛️ Diving deeper into **React**, including advanced hooks and optimizations
 * 🔌 Exploring **API integration** and backend technologies
 * 🌍 Contributing to **open-source projects**
